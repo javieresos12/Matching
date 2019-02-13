@@ -1,0 +1,12 @@
+
+section{
+    width: 600px;
+}
+
+section input{
+    max-width: 170px;
+}
+
+#pair span{
+    width: 300px;
+}

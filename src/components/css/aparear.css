@@ -1,0 +1,49 @@
+.contenedor{
+    position: absolute;
+    left: 400px;
+    box-sizing: border-box;
+    border: solid 1px;   
+    text-align: center; 
+}
+
+.principal-izquierda{
+  position: relative;
+  float: left;
+  margin-right: 100px;  
+}
+
+.form{
+    float: right;
+}
+ 
+  #button{
+    float: right;
+    clear: both;
+    margin: 20px;
+  }
+  
+  .form-control{
+    font-size: 12px;
+    padding: 7px;
+    margin: 6px;
+    width: 200px; 
+    display: inline;
+  }
+  
+  .principal-label{
+    float: right;
+    
+  }
+  
+  .principal-input{
+    float: left;
+  }
+  
+  
+  #label2{
+    font-size: 15px;
+    padding: 7px;
+    margin: 6px;
+    margin-bottom: 12px;
+    width: 200px;
+  }

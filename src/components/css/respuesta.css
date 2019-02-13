@@ -1,0 +1,50 @@
+.contenedor{
+    position: absolute;
+    left: 340px;
+    box-sizing: border-box;
+    text-align: center;
+}
+.principal{
+    float: right;
+    margin-right: 10px;
+    margin-left: 20px;
+  }
+
+  .Aparear{
+    float: left;
+    margin-left: 10px;
+    margin-right: 20px;
+  }
+  
+  #button{
+    clear: both;
+    margin: 15px;
+    float: right;
+  }
+  
+  .form-control{
+    font-size: 11px;
+    padding: 7px;
+    margin: 6px;
+    margin-right: 0px;
+    width: 180px; 
+    display: inline;
+  }
+  
+  .principal-label{
+    float: right;
+  }
+  
+  .principal-input{
+    float: left;
+  }
+  
+  
+  #label2{
+    font-size: 15px;
+    padding: 7px;
+    margin: 6px;
+    margin-bottom: 12px;
+    width: 200px;
+    margin-left: 0px;
+  }

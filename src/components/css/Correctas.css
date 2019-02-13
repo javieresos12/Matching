@@ -1,0 +1,39 @@
+.container{
+  box-sizing: border-box;
+  max-width: 500px;
+}
+
+.form h3{
+  display: flex;
+  justify-content:center;
+}
+
+#button{
+  clear: both;
+  margin-top: 20px;
+}
+
+.form-control{
+  font-size: 12px;
+  padding: 7px;
+  margin: 6px;
+  width: 200px; 
+  display: inline;
+}
+
+.principal-label{
+  float: right;
+}
+
+.principal-input{
+  float: left;
+}
+
+
+#label2{
+  font-size: 15px;
+  padding: 7px;
+  margin: 6px;
+  margin-bottom: 12px;
+  width: 200px;
+}
